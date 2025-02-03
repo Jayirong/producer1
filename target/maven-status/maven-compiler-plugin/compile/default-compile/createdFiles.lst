@@ -1,0 +1,9 @@
+com\anemona\producer1\config\SecurityConfig.class
+com\anemona\producer1\service\Producer1Service.class
+com\anemona\producer1\Producer1Application.class
+com\anemona\producer1\controller\Producer1Controller.class
+com\anemona\producer1\DTO\EstadoVitalDTO.class
+com\anemona\producer1\config\RestTemplateConfig.class
+com\anemona\producer1\model\AlertaMensaje.class
+com\anemona\producer1\config\Producer1Config.class
+com\anemona\producer1\DTO\ParametrosVitalesDTO.class
